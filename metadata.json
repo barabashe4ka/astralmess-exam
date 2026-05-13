@@ -1,0 +1,6 @@
+{
+  "name": "ASTRALMESS",
+  "description": "Система выдачи экзаменационных билетов в реальном времени на базе Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
